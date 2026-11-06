@@ -14,3 +14,7 @@ Masterklas anatomije, funkcije, povreda i testiranja zglobova.
 2. [Galerija — četiri odobrene ilustracije](kuk/anatomija/slike/README.md)
 
 Sledeći deo za razradu: funkcija i pokreti kuka, zatim povrede i simptomi, pa testiranje.
+
+## Strucna literatura i rehab protokoli
+
+- [MFS biblioteka rehab protokola - Delaware, Nevada PT, Aspetar, VALD](literatura/rehabilitacioni-protokoli/README.md) - direktni PDF linkovi, izvori, oblasti, prava pristupa i alat za lokalno preuzimanje.
