@@ -1,0 +1,163 @@
+{
+  "naslov": "MFS Masterklas - javno dostupni rehabilitacioni protokoli i izvori",
+  "provereno": "2026-11-06",
+  "napomena": "Repo je javan. Ovaj manifest cuva originalne linkove i dozvoljava lokalno preuzimanje direktnih PDF-ova, ali ne redistribuira dokumente. Originali ostaju vlasnistvo svojih izdavaca.",
+  "izvori": [
+    {
+      "id": "nevada-acl-master",
+      "izvor": "Nevada Physical Therapy",
+      "oblast": "koleno",
+      "naziv": "ACL rekonstrukcija - kompletan protokol (33 str.)",
+      "tip": "direktan_pdf",
+      "fajl": "Nevada_ACL_Master.pdf",
+      "url": "https://www.nevpt.com/pdf/ACL%20v.%205.0%20Master.pdf"
+    },
+    {
+      "id": "nevada-acl-short",
+      "izvor": "Nevada Physical Therapy",
+      "oblast": "koleno",
+      "naziv": "ACL - skracena verzija (5 str.)",
+      "tip": "direktan_pdf",
+      "fajl": "Nevada_ACL_Short.pdf",
+      "url": "https://www.nevpt.com/pdf/ACL%20v.%205.0%20Short%20Form.pdf"
+    },
+    {
+      "id": "nevada-hip-arthroscopy",
+      "izvor": "Nevada Physical Therapy",
+      "oblast": "kuk",
+      "naziv": "Artroskopija kuka - postoperativna rehabilitacija (18 str.)",
+      "tip": "direktan_pdf",
+      "fajl": "Nevada_Hip_Arthroscopy.pdf",
+      "url": "https://www.nevpt.com/pdf/Hip%20Arthro%20Master%20%28final%29.pdf"
+    },
+    {
+      "id": "nevada-rotator-review",
+      "izvor": "Nevada Physical Therapy",
+      "oblast": "rame",
+      "naziv": "Rotatorna manzetna - narativni pregled (nije klasicni fazni protokol; 7 str.)",
+      "tip": "direktan_pdf",
+      "fajl": "Nevada_Rotator_Cuff_Narrative_Review.pdf",
+      "url": "https://www.nevpt.com/pdf/Rotator%20Cuff%20Repair%20Rehabilitation.pdf"
+    },
+    {
+      "id": "udel-acl-2021",
+      "izvor": "University of Delaware",
+      "oblast": "koleno",
+      "naziv": "ACL rekonstrukcija - smernice, izdanje april 2021 (19 str.)",
+      "tip": "direktan_pdf",
+      "fajl": "UDel_ACL_2021.pdf",
+      "url": "https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/c/3448/files/2016/01/UDPT-ACL-Rehab-Guideline-REVISED.pdf"
+    },
+    {
+      "id": "udel-bankart",
+      "izvor": "University of Delaware",
+      "oblast": "rame",
+      "naziv": "Bankart repair - postoperativni protokol (4 str.)",
+      "tip": "direktan_pdf",
+      "fajl": "UDel_Bankart_Repair.pdf",
+      "url": "https://bpb-us-w2.wpmucdn.com/sites.udel.edu/dist/c/3448/files/2016/01/Bankart-Repair.pdf"
+    },
+    {
+      "id": "udel-tka",
+      "izvor": "University of Delaware",
+      "oblast": "koleno",
+      "naziv": "Totalna artroplastika kolena TKA (5 str.)",
+      "tip": "direktan_pdf",
+      "fajl": "UDel_TKA.pdf",
+      "url": "https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/c/3448/files/2016/01/TKA-Protocols-updated-3_2021.pdf"
+    },
+    {
+      "id": "udel-rotator-small",
+      "izvor": "University of Delaware",
+      "oblast": "rame",
+      "naziv": "Rotator cuff repair - manje rupture bez retrakcije (2 str.)",
+      "tip": "direktan_pdf",
+      "fajl": "UDel_Rotator_Cuff_Small.pdf",
+      "url": "https://bpb-us-w2.wpmucdn.com/sites.udel.edu/dist/c/3448/files/2016/10/RC_uncomplicated_2015-2dim2nf.pdf"
+    },
+    {
+      "id": "udel-rotator-large",
+      "izvor": "University of Delaware",
+      "oblast": "rame",
+      "naziv": "Rotator cuff repair - velike rupture sa retrakcijom (4 str.)",
+      "tip": "direktan_pdf",
+      "fajl": "UDel_Rotator_Cuff_Large.pdf",
+      "url": "https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/c/3448/files/2017/07/updated-large-RTC-with-retraction-guidelines-Jul-21-2017-re5zvc.pdf"
+    },
+    {
+      "id": "udel-patellar-tendinopathy",
+      "izvor": "University of Delaware",
+      "oblast": "koleno",
+      "naziv": "Patelarna tendinopatija - tretman i progresija (jul 2016)",
+      "tip": "direktan_pdf",
+      "fajl": "UDel_Patellar_Tendinopathy.pdf",
+      "url": "https://sites.udel.edu/ptclinic/files/2016/10/Patellar-Tendinopathy-Treatment-Protocol-21sjaim-yi2e4k.pdf"
+    },
+    {
+      "id": "aspetar-hamstring",
+      "izvor": "Aspetar",
+      "oblast": "zadnja loza",
+      "naziv": "Aspetar Hamstring Protocol (veliki PDF, ~12.6 MB)",
+      "tip": "direktan_pdf",
+      "fajl": "Aspetar_Hamstring_Protocol.pdf",
+      "url": "https://www.aspetar.com/aspetarfileupload/UploadCenter/636209313253275549_aspetar%20Hamstring%20Protocol.pdf"
+    },
+    {
+      "id": "aspetar-adductor",
+      "izvor": "Aspetar",
+      "oblast": "aduktori/prepone",
+      "naziv": "Acute Adductor Injuries - Treatment Protocol",
+      "tip": "direktan_pdf",
+      "fajl": "Aspetar_Acute_Adductor.pdf",
+      "url": "https://www.aspetar.com/AspetarFILEUPLOAD/UploadCenter/637316240569681376_Acute%20adductor%20injuries%20-%20Aspetar%20Treatment%20protocol.pdf"
+    },
+    {
+      "id": "aspetar-acl-guideline-2023",
+      "izvor": "Aspetar / BJSM",
+      "oblast": "koleno",
+      "naziv": "ACL rekonstrukcija - 2023 evidence-based clinical guideline (open access na PMC)",
+      "tip": "stranica",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11785408/"
+    },
+    {
+      "id": "aspetar-acl-pathway",
+      "izvor": "Aspetar",
+      "oblast": "koleno",
+      "naziv": "Aspetar ACL Rehabilitation Protocol - besplatno uz formular",
+      "tip": "formular",
+      "url": "https://www.aspetar.com/en/professionals/aspetar-clinical-guidelines/acl-rehabilitation-protocol"
+    },
+    {
+      "id": "aspetar-hamstring-pathway",
+      "izvor": "Aspetar",
+      "oblast": "zadnja loza",
+      "naziv": "Aspetar Hamstring Injury Rehabilitation Pathway - besplatno uz formular",
+      "tip": "formular",
+      "url": "https://www.aspetar.com/en/professionals/aspetar-clinical-guidelines/hamstring-injury-rehabilitation-pathway"
+    },
+    {
+      "id": "vald-acl",
+      "izvor": "VALD",
+      "oblast": "koleno",
+      "naziv": "Practitioner's Guide to ACL - besplatan eBook uz formular",
+      "tip": "formular",
+      "url": "https://resources.valdhealth.com/practitioners-guide-to-acl"
+    },
+    {
+      "id": "vald-calf-achilles",
+      "izvor": "VALD",
+      "oblast": "list/Ahilova",
+      "naziv": "Practitioner's Guide to the Calf & Achilles Complex - uz formular",
+      "tip": "formular",
+      "url": "https://resources.valdperformance.com/practitioners-guide-to-the-calf-achilles-complex"
+    },
+    {
+      "id": "vald-oa-replacements",
+      "izvor": "VALD",
+      "oblast": "kuk/koleno",
+      "naziv": "Practitioner's Guide to Osteoarthritis and Joint Replacements - uz formular",
+      "tip": "formular",
+      "url": "https://resources.valdperformance.com/practitioners-guide-to-osteoarthritis-and-joint-replacements"
+    }
+  ]
+}
