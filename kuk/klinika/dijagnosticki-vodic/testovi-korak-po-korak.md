@@ -4,7 +4,7 @@
 **Revizija:** 7. novembar 2026.  
 **Namenjeno:** trenerima i fizioterapeutima za učenje i razumevanje, uz primenu prema obrazovanju, kompetenciji i lokalnim propisima.  
 **Povezano:** [Atlas simptoma i mogućih uzroka](README.md) · [10 praktičnih primera](primeri-klinickog-razmisljanja.md).
-**Novi vizuelni prikazi:** [sedam individualnih edukativnih kartica testova](../kartice/README.md), sa opisom korak po korak i ograničenjima.  
+**Novi vizuelni prikazi:** [trinaest individualnih edukativnih kartica testova](../kartice/README.md), sa opisom korak po korak i ograničenjima.  
 **Princip:** *nijedan test sam po sebi nije dijagnoza*. Provokacija poznatog bola, snaga, opseg i neurološki znaci su različite vrste informacija. Ne izvoditi testove sa velikom silom, ne provocirati bol do maksimuma i nikada ne nastavljati nakon crvenih zastavica.
 
 ## Kako čitamo svaki test?
@@ -381,3 +381,6 @@
 18. [Evropski konsenzus o proceni bolova kuka i prepona (septembar 2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13622907/). Naglašava sistematičan pregled, mogućnost više istovremenih izvora bola i nespecifičnost bolnih provokacionih nalaza.
 
 **Napomena za narednu reviziju:** za svaku karticu posebno dodati stručno potvrđene fotografije položaja, proveru doslednosti izvođenja i, gde postoji kvalitetan dokaz, ocenu dijagnostičke tačnosti u jasno definisanoj populaciji.
+
+
+**Ažuriranje 7. novembra 2026:** [specijalizovani vodič za zadnji bol kuka](../zadnji-bol-vodic.md) i [individualne kartice 08–13](../kartice/README.md) sa novim dokazima o ograničenjima testa podizanja ispružene noge iz 2026. godine.
