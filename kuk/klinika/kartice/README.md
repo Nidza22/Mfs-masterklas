@@ -1,7 +1,7 @@
-# Kuk — vizuelne kartice testova, prva serija
+# Kuk — vizuelne kartice testova, serije 01–07
 
 **Datum:** 7. novembar 2026.  
-**Status:** prva serija za stručnu reviziju; informativni vizuelni prikazi i potpun tekstualni protokol, **bez automatske dijagnoze**.
+**Status:** serije za stručnu reviziju; informativni vizuelni prikazi i potpun tekstualni protokol, **bez automatske dijagnoze**.
 
 Zahtev Masterklasa: **ne koristiti neobjašnjene skraćenice**. Svaka kartica mora odgovoriti na pitanje zašto se test radi, kako se osoba postavlja, gde stoje ruke ispitivača, kojim redom se pomera noga, šta znači pozitivan, negativan i neodređen nalaz i koje su granice zaključivanja.
 
@@ -11,6 +11,12 @@ Zahtev Masterklasa: **ne koristiti neobjašnjene skraćenice**. Svaka kartica mo
 2. [Položaj broja četiri](02-polozaj-broja-cetiri.md) — Savijanje, odvođenje i spoljašnja rotacija.
 3. [Palpacija velikog trohantera](03-palpacija-velikog-trohantera.md) — Provokacija prepoznatljivog spoljašnjeg bola.
 4. [Odvođenje kuka protiv otpora](04-odvodjenje-kuka-protiv-otpora.md) — Provokacija lateralnog bola pri radu abduktora.
+
+## Druga serija — kartice 05–07
+
+5. [Aduktori: palpacija i primicanje nogu protiv otpora](05-aduktori-palpacija-i-primicanje-protiv-otpora.md) — razlikovati dva nalaza, palpatornu osetljivost i bol pri primicanju.
+6. [Jednonožni oslonac do trideset sekundi](06-jednonozni-oslonac-trideset-sekundi.md) — test bola na spoljašnjoj strani kuka, odvojen od kontrole karlice.
+7. [Savijanje kuka protiv otpora](07-savijanje-kuka-protiv-otpora.md) — procena prednjeg bola i kapaciteta pregibača kuka.
 
 ## Vizuelni prikazi
 
@@ -36,3 +42,14 @@ Ne izvoditi provokacione manevre kod sumnje na prelom ili stres-povredu vrata fe
 4. [Evropski stručni konsenzus za bol kuka i prepona (2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13622907/)
 
 **Šta dalje:** stručna kontrola vizuelnih položaja, dodatak testa aduktora i oslonca na jednu nogu, pa veza sa konkretnim stanjima iz [našeg dijagnostičkog vodiča](../dijagnosticki-vodic/README.md).
+
+
+## Novi vizuelni sažeci druge serije
+
+![Aduktori — pregled koraka](slike/05-aduktori-palpacija-i-primicanje-protiv-otpora.svg)
+
+![Jednonožni oslonac — pregled koraka](slike/06-jednonozni-oslonac-trideset-sekundi.svg)
+
+![Savijanje kuka protiv otpora — pregled koraka](slike/07-savijanje-kuka-protiv-otpora.svg)
+
+**Ilustrativna fotografska serija:** zaseban PNG triptih postoji kao radni nacrt za stručnu kontrolu položaja, teksta i strelica; u GitHub-u su tekstualne kartice i proverljive shematske kartice.
