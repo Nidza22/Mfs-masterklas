@@ -20,7 +20,8 @@ Masterklas anatomije, funkcije, povreda i testiranja zglobova.
 8. **[NOVO: potpuni vodič — gde boli i šta znači, bez skraćenica](kuk/klinika/dijagnosticki-vodic/README.md)**
 9. **[NOVO: 29 testova korak po korak, sa pozitivnim i negativnim nalazima](kuk/klinika/dijagnosticki-vodic/testovi-korak-po-korak.md)**
 10. **[NOVO: 10 primera diferencijalne procene](kuk/klinika/dijagnosticki-vodic/primeri-klinickog-razmisljanja.md)**
-11. **[Vizuelne kartice 7 kliničkih testova — prve dve serije, sa potpunim izvođenjem](kuk/klinika/kartice/README.md)**
+11. **[Vizuelne kartice 13 kliničkih testova — tri serije, sa detaljnim izvođenjem](kuk/klinika/kartice/README.md)**
+12. **[Zadnji bol kuka — diferencijalna procena zadnje lože, duboke glutealne regije i nervnih simptoma](kuk/klinika/zadnji-bol-vodic.md)**
 
 **Status:** originalni crteži su ilustrativni i nisu završno anatomski verifikovani; lista potrebnih korekcija je sačuvana. Sledeći deo za razradu: zasebne stranice o specifičnim stanjima i detaljne kartice testova, potom stručno proverene veze sa EX vežbama.
 
