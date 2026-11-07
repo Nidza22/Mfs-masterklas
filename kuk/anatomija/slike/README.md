@@ -19,3 +19,6 @@
 ![Mišići sa strane i pozadi](04-misici-sa-strane-i-pozadi.jpg)
 
 Status: ilustrativni nacrti; završna stručna provera pripoja mišića i odnosa struktura još nije završena. Ranije sačuvana PNG verzija četvrte ilustracije ostaje u folderu.
+
+
+**Provera 7. novembra 2026:** [detaljni nalazi za svaku sliku](../provera-ilustracija.md) · [mapa svih važnih mišića](../mapa-misica.md) · [biomehanika](../../biomehanika/README.md). Originalne datoteke nisu menjane.
