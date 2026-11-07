@@ -1,3 +1,7 @@
+**VAŽNO — GLAVNA NOVA VERZIJA:** [Kompletan vodič simptoma i mogućih uzroka, jasno objašnjen bez skraćenica](dijagnosticki-vodic/README.md) · [29 testova korak po korak](dijagnosticki-vodic/testovi-korak-po-korak.md) · [10 primera](dijagnosticki-vodic/primeri-klinickog-razmisljanja.md).
+
+> Ova kraća stranica je istorijska sažeta radna verzija; za učenje i klinički rad prioritet ima povezani detaljni vodič. Nijedan test samostalno ne postavlja dijagnozu.
+
 # Kuk — klinička orijentacija prema lokaciji bola (lekcija 03)
 
 **Datum:** 2026-11-07  
