@@ -14,7 +14,7 @@ Pitati: gde tačno boli? Da li je bol počeo pri promeni pravca, sprintu ili uda
 
 ## Korak 1 — nežna palpacija
 
-1. Osoba je u udobnom ležećem položaju, uz profesionalno prekrivanje osetljive preponske regije i prethodno objašnjenje/pistanak.
+1. Osoba je u udobnom ležećem položaju, uz profesionalno prekrivanje osetljive preponske regije i prethodno objašnjenje i pristanak.
 2. Stručno osposobljen ispitivač identifikuje aduktorsku regiju i, kada je primereno, njihov proksimalni pripoj blizu pubične kosti. Ne palpira napamet intimne regije.
 3. Vrši blag, kontrolisan pritisak i pita: „Da li je ovo isti bol koji osećaš tokom aktivnosti ili samo obična nelagodnost od pritiska?”
 4. Beleži se **precizno mesto poznatog bola**, strana i jačina. Sama osetljivost na snažan pritisak nije dovoljna.
