@@ -16,7 +16,10 @@ Masterklas anatomije, funkcije, povreda i testiranja zglobova.
 4. [Mapa mišića kuka — polazišta, pripoji i uloge](kuk/anatomija/mapa-misica.md)
 5. [Funkcija i biomehanika kuka — lekcija 02](kuk/biomehanika/README.md)
 6. [Klinička orijentacija: bol prema lokaciji — lekcija 03](kuk/klinika/README.md)
-7. [Katalog testova kuka — svrha, izvođenje i ograničenja](kuk/klinika/testiranje/README.md)
+7. [Katalog testova kuka — ranija kratka radna verzija](kuk/klinika/testiranje/README.md)
+8. **[NOVO: potpuni vodič — gde boli i šta znači, bez skraćenica](kuk/klinika/dijagnosticki-vodic/README.md)**
+9. **[NOVO: 29 testova korak po korak, sa pozitivnim i negativnim nalazima](kuk/klinika/dijagnosticki-vodic/testovi-korak-po-korak.md)**
+10. **[NOVO: 10 primera diferencijalne procene](kuk/klinika/dijagnosticki-vodic/primeri-klinickog-razmisljanja.md)**
 
 **Status:** originalni crteži su ilustrativni i nisu završno anatomski verifikovani; lista potrebnih korekcija je sačuvana. Sledeći deo za razradu: zasebne stranice o specifičnim stanjima i detaljne kartice testova, potom stručno proverene veze sa EX vežbama.
 
