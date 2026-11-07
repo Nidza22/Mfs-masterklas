@@ -4,7 +4,7 @@
 **Revizija:** 7. novembar 2026.  
 **Namena:** stručna edukacija, rad u fizioterapiji i treningu, razumljiv prikaz za početnike.  
 **Status:** sistematski pregled čestih, važnih i potencijalno opasnih uzroka, zasnovan na izvorima ispod; nije iscrpan spisak svih retkih bolesti i nije zamena za pregled lekara.  
-**Obavezni nastavak:** [Testovi kuka opisani korak po korak](testovi-korak-po-korak.md).
+**Obavezni nastavak:** [Testovi kuka opisani korak po korak](testovi-korak-po-korak.md) · [10 konkretnih primera tumačenja](primeri-klinickog-razmisljanja.md).
 
 ## 1. Šta zapravo zovemo bolom u kuku?
 
@@ -140,7 +140,7 @@ Kuk i koleno dele deo nervnih puteva za prenos bola. Zbog toga **osteoartritis, 
 **Treća faza — osnovni pregled:** Hod, oslonac, pokreti kičme, aktivni i pasivni pokreti kuka, prema toleranciji.  
 **Četvrta faza — testovi prema hipotezi:** Testovi za tri najverovatnije kategorije, ne dvadeset nasumičnih testova.  
 **Peta faza — poređenje:** Poznati bol, lokalizacija, snaga, ograničenja i neurologija, razlika između strana.  
-**Šesta faza — interpretacija:** Šta nalazi podržavaju, šta protivreči, šta još nismo isključili, i treba li slikanje/upуćivanje.  
+**Šesta faza — interpretacija:** Šta nalazi podržavaju, šta protivreči, šta još nismo isključili, i treba li slikanje/upućivanje.  
 **Sedma faza — zapis:** Radna pretpostavka, ograničenja izvesnosti, plan praćenja i kriterijumi ponovne procene.
 
 ## 11. Kada su potrebni snimci i druge medicinske pretrage?
@@ -154,7 +154,7 @@ Kuk i koleno dele deo nervnih puteva za prenos bola. Zbog toga **osteoartritis, 
 
 Izbor zavisi od radne dijagnoze, godina, rizika, pregleda, trajanja simptoma i toga da li će rezultat promeniti lečenje. **Normalan snimak nije univerzalno oslobađanje od sumnje**, kao što ni abnormalan snimak ne dokazuje automatski izvor bola. [1, 3, 5, 20]
 
-## 12. Pet termina za početnika
+## 12. Osam važnih termina za početnika
 
 - **Palpacija:** kontrolisan pritisak prstima kojim pregledamo osetljivost i koštane/mišićne orijentire.
 - **Aktivni pokret:** osoba sama pomera nogu mišićima.
@@ -176,7 +176,7 @@ Izbor zavisi od radne dijagnoze, godina, rizika, pregleda, trajanja simptoma i t
 7. [American College of Radiology — Acute Hip Pain, appropriateness criteria (2024)](https://acsearch.acr.org/docs/3082587/narrative).
 8. [Physical Examination of the Hip (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8167346/).
 9. [Warwick konsenzus — Femoroacetabular Impingement Syndrome (2016)](https://bjsm.bmj.com/content/50/19/1169).
-10. [Kliničke smernice za nezglobni artrotski bol kuka (2023)](https://doi.org/10.2519/jospt.2023.0302).
+10. [Kliničke smernice za neartrotični bol u zglobu kuka (2023)](https://doi.org/10.2519/jospt.2023.0302).
 11. [Hip instability — međunarodni klinički konsenzus (2026)](https://pubmed.ncbi.nlm.nih.gov/41911001/).
 12. [American Physical Therapy Association — osteoartritis kuka, smernice revidirane 2025](https://www.apta.org/patient-care/evidence-based-practice-resources/cpgs/hip-pain-and-mobility-deficitship-osteoarthritis-revision-2017-cpg).
 13. [International Society for Hip Preservation — konsenzus o lateralnom bolu kuka (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10234389/).
@@ -187,5 +187,7 @@ Izbor zavisi od radne dijagnoze, godina, rizika, pregleda, trajanja simptoma i t
 18. [Testovi hronične proksimalne tendinopatije zadnje lože](https://pubmed.ncbi.nlm.nih.gov/22219215/).
 19. [Meta-analiza testova sakroilijačnog bola (2021)](https://pubmed.ncbi.nlm.nih.gov/34210160/).
 20. [American College of Radiology — Chronic Hip Pain, appropriateness criteria](https://acsearch.acr.org/docs/69425/Narrative/).
+
+21. [Evropski formalni konsenzus iz septembra 2026. — procena bola kuka i prepona kod aktivnih odraslih](https://pmc.ncbi.nlm.nih.gov/articles/PMC13622907/). Naglašava da su mogući višestruki istovremeni izvori bola i da se pregled i snimci moraju tumačiti zajedno; konsenzusne preporuke imaju ograničenu jačinu dokaza.
 
 **Uredničko pravilo:** ovo je široki „atlas uzroka”, ne automat za dijagnoze. Za svaki konkretan test koristi zasebnu karticu u nastavku, uz poznatu svrhu, ograničenja i izvor.
