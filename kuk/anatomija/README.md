@@ -71,7 +71,9 @@ Tetiva, burza i sam zglob predstavljaju različite strukture, iako se nalaze bli
 - Mišići pokreću kuk i kontrolišu karlicu.
 - Tetive prenose silu, a burze smanjuju trenje.
 
-Sledeća lekcija: **funkcija i pokreti kuka**, uz primere hodanja, čučnja, ustajanja i oslonca na jednu nogu.
+**Nastavak:** [Lekcija 02 — funkcija i biomehanika kuka](../biomehanika/README.md), uz hodanje, čučanj, ustajanje, hip hinge i oslonac na jednu nogu.
+
+**Dodatno:** [Mapa pojedinačnih mišića kuka](mapa-misica.md) i [stručna vizuelna provera naših ilustracija](provera-ilustracija.md). Ove dve datoteke razdvajaju proverene anatomske činjenice od didaktičkih aproksimacija na crtežima.
 
 ## Izvori i status
 
