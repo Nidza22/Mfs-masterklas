@@ -3,7 +3,7 @@
 **MFS Masterklas · 7. novembar 2026.**  
 **Status:** stručni edukativni vodič sa istraživanjima i ograničenjima. Nije automatska dijagnoza.
 
-**Prati redom:** [Atlas svih bolova kuka](../dijagnosticki-vodic/README.md) → [Kartice testova 08–13](kartice/README.md) → ovaj vodič.  
+**Prati redom:** [Atlas svih bolova kuka](dijagnosticki-vodic/README.md) → [Kartice testova 08–13](kartice/README.md) → ovaj vodič.  
 **Sadržaj celog modula:** [Sve kartice 01–13](kartice/README.md).
 
 ## 1. Gde tačno boli i šta to može da znači?
