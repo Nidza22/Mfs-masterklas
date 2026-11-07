@@ -4,7 +4,7 @@
 **Revizija:** 7. novembar 2026.  
 **Namenjeno:** trenerima i fizioterapeutima za učenje i razumevanje, uz primenu prema obrazovanju, kompetenciji i lokalnim propisima.  
 **Povezano:** [Atlas simptoma i mogućih uzroka](README.md) · [10 praktičnih primera](primeri-klinickog-razmisljanja.md).
-**Novi vizuelni prikazi:** [četiri individualne edukativne kartice testova](../kartice/README.md), sa opisom korak po korak i ograničenjima.  
+**Novi vizuelni prikazi:** [sedam individualnih edukativnih kartica testova](../kartice/README.md), sa opisom korak po korak i ograničenjima.  
 **Princip:** *nijedan test sam po sebi nije dijagnoza*. Provokacija poznatog bola, snaga, opseg i neurološki znaci su različite vrste informacija. Ne izvoditi testove sa velikom silom, ne provocirati bol do maksimuma i nikada ne nastavljati nakon crvenih zastavica.
 
 ## Kako čitamo svaki test?
