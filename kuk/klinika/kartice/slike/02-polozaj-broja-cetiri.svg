@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1360" height="790" viewBox="0 0 1360 790" role="img" aria-label="Položaj broja četiri">
+<rect width="1360" height="790" fill="#F8F9FC"/><rect x="32" y="30" width="1296" height="730" rx="32" fill="white" stroke="#D6DEE7" stroke-width="3"/>
+<rect x="53" y="52" width="1255" height="126" rx="27" fill="#CFE8E2"/>
+<text x="79" y="92" font-family="DejaVu Sans,sans-serif" font-size="26" font-weight="700" fill="#316D70">MFS MASTERKLAS · KUK / TEST 02</text>
+<text x="79" y="145" font-family="DejaVu Sans,sans-serif" font-size="37" font-weight="700" fill="#173E42">Položaj broja četiri</text>
+<g font-family="DejaVu Sans,sans-serif"><g><rect x="65" y="205" width="570" height="82" rx="18" fill="#F2F8F6"/><circle cx="111" cy="246" r="28" fill="#347E79"/><text x="111" y="257" font-size="28" text-anchor="middle" font-weight="700" fill="white">1</text><text x="156" y="256" font-size="27" fill="#243B42">Leži na leđima</text></g>
+<g><rect x="65" y="305" width="570" height="82" rx="18" fill="#EDF2FA"/><circle cx="111" cy="346" r="28" fill="#347E79"/><text x="111" y="357" font-size="28" text-anchor="middle" font-weight="700" fill="white">2</text><text x="156" y="356" font-size="27" fill="#243B42">Članak ide na suprotno koleno</text></g>
+<g><rect x="65" y="405" width="570" height="82" rx="18" fill="#F2F8F6"/><circle cx="111" cy="446" r="28" fill="#347E79"/><text x="111" y="457" font-size="28" text-anchor="middle" font-weight="700" fill="white">3</text><text x="156" y="456" font-size="27" fill="#243B42">Stabilizuj karlicu</text></g>
+<g><rect x="65" y="505" width="570" height="82" rx="18" fill="#EDF2FA"/><circle cx="111" cy="546" r="28" fill="#347E79"/><text x="111" y="557" font-size="28" text-anchor="middle" font-weight="700" fill="white">4</text><text x="156" y="556" font-size="27" fill="#243B42">Nežno spuštaj savijeno koleno</text></g>
+<rect x="665" y="205" width="610" height="148" rx="20" fill="#F1EBFA"/>
+<text x="693" y="244" font-size="26" font-weight="700" fill="#604681">ŠTA BELEŽIMO?</text><text x="693" y="291" font-size="28" fill="#354F57">Pozitivan nalaz: poznat bol.</text>
+<text x="693" y="329" font-size="28" fill="#354F57">Obavezno zabeležiti tačno mesto bola.</text>
+<rect x="665" y="368" width="610" height="150" rx="20" fill="#F8EFEF"/>
+<text x="693" y="406" font-size="26" font-weight="700" fill="#A45362">ŠTA TEST NE DOKAZUJE?</text><text x="693" y="455" font-size="28" fill="#354F57">Preponski, spoljašnji i zadnji bol</text>
+<text x="693" y="493" font-size="28" fill="#354F57">nemaju isto značenje.</text>
+<rect x="665" y="534" width="610" height="71" rx="15" fill="#E9F5F2"/>
+<text x="685" y="575" font-size="23" font-weight="600" fill="#27685E">Čitati i kompletnu karticu sa objašnjenjem.</text>
+<line x1="72" y1="661" x2="1280" y2="661" stroke="#C0D3D8" stroke-width="3"/>
+<text x="80" y="704" font-size="23" font-weight="700" fill="#8F5966">SHEMATSKI NACRT · ne zamenjuje praktičnu obuku i pregled</text>
+<text x="80" y="734" font-size="20" fill="#697B83">Nijedan pojedinačni test ne potvrđuje dijagnozu. Sačuvati nalaz i lokaciju poznatog bola.</text>
+</g></svg>
