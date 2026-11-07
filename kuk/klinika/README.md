@@ -1,4 +1,6 @@
-**Vizuelni pilot:** [sedam detaljno razrađenih testova sa shematskim karticama](kartice/README.md).
+**Najnovije:** [Zadnji bol kuka — kliničko razlikovanje tetive, dubokih glutealnih struktura i nervnih simptoma](zadnji-bol-vodic.md).
+
+**Vizuelni pilot:** [trinaest detaljno razrađenih testova sa shematskim karticama](kartice/README.md).
 
 **VAŽNO — GLAVNA NOVA VERZIJA:** [Kompletan vodič simptoma i mogućih uzroka, jasno objašnjen bez skraćenica](dijagnosticki-vodic/README.md) · [29 testova korak po korak](dijagnosticki-vodic/testovi-korak-po-korak.md) · [10 primera](dijagnosticki-vodic/primeri-klinickog-razmisljanja.md).
 
