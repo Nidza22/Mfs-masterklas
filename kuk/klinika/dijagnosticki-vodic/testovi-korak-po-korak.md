@@ -3,7 +3,7 @@
 
 **Revizija:** 7. novembar 2026.  
 **Namenjeno:** trenerima i fizioterapeutima za učenje i razumevanje, uz primenu prema obrazovanju, kompetenciji i lokalnim propisima.  
-**Povezano:** [Atlas simptoma i mogućih uzroka](README.md).  
+**Povezano:** [Atlas simptoma i mogućih uzroka](README.md) · [10 praktičnih primera](primeri-klinickog-razmisljanja.md).  
 **Princip:** *nijedan test sam po sebi nije dijagnoza*. Provokacija poznatog bola, snaga, opseg i neurološki znaci su različite vrste informacija. Ne izvoditi testove sa velikom silom, ne provocirati bol do maksimuma i nikada ne nastavljati nakon crvenih zastavica.
 
 ## Kako čitamo svaki test?
@@ -376,5 +376,7 @@
 15. [Meralgia paresthetica, clinical diagnosis](https://www.ncbi.nlm.nih.gov/books/NBK557735/).
 16. [Systematic review: sacroiliac pain provocation test clusters](https://pubmed.ncbi.nlm.nih.gov/34210160/).
 17. [International consensus on clinical hip instability tests (2026)](https://pubmed.ncbi.nlm.nih.gov/41911001/).
+
+18. [Evropski konsenzus o proceni bolova kuka i prepona (septembar 2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13622907/). Naglašava sistematičan pregled, mogućnost više istovremenih izvora bola i nespecifičnost bolnih provokacionih nalaza.
 
 **Napomena za narednu reviziju:** za svaku karticu posebno dodati stručno potvrđene fotografije položaja, proveru doslednosti izvođenja i, gde postoji kvalitetan dokaz, ocenu dijagnostičke tačnosti u jasno definisanoj populaciji.
