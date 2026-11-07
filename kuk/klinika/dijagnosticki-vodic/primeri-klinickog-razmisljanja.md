@@ -103,7 +103,7 @@
 
 **Bezbednost:** „Znakovi za hitnu medicinsku obradu: prisutni / nisu prepoznati tokom današnjeg pregleda.” (Nije garancija da su sve bolesti isključene.)
 
-**Dalje:** „Dopunski pregled/snimanje/upуćivanje/praćenje: ________; razlog: ________.”
+**Dalje:** „Dopunski pregled/snimanje/upućivanje/praćenje: ________; razlog: ________.”
 
 ## Smernice na kojima su primeri zasnovani
 
