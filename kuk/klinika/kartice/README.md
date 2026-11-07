@@ -1,4 +1,4 @@
-# Kuk — vizuelne kartice testova, serije 01–07
+# Kuk — vizuelne kartice testova, serije 01–13
 
 **Datum:** 7. novembar 2026.  
 **Status:** serije za stručnu reviziju; informativni vizuelni prikazi i potpun tekstualni protokol, **bez automatske dijagnoze**.
@@ -41,7 +41,7 @@ Ne izvoditi provokacione manevre kod sumnje na prelom ili stres-povredu vrata fe
 3. [Sistematski pregled testova za spoljašnji bol kuka (2024)](https://pubmed.ncbi.nlm.nih.gov/37561820/)
 4. [Evropski stručni konsenzus za bol kuka i prepona (2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13622907/)
 
-**Šta dalje:** stručna kontrola vizuelnih položaja, dodatak testa aduktora i oslonca na jednu nogu, pa veza sa konkretnim stanjima iz [našeg dijagnostičkog vodiča](../dijagnosticki-vodic/README.md).
+**Šta dalje:** stručna kontrola svih vizuelnih položaja i dodatni nacrti neuralnih i glutealnih pregleda, pa veza sa konkretnim stanjima iz [našeg dijagnostičkog vodiča](../dijagnosticki-vodic/README.md).
 
 
 ## Novi vizuelni sažeci druge serije
@@ -53,3 +53,31 @@ Ne izvoditi provokacione manevre kod sumnje na prelom ili stres-povredu vrata fe
 ![Savijanje kuka protiv otpora — pregled koraka](slike/07-savijanje-kuka-protiv-otpora.svg)
 
 **Ilustrativna fotografska serija:** zaseban PNG triptih postoji kao radni nacrt za stručnu kontrolu položaja, teksta i strelica; u GitHub-u su tekstualne kartice i proverljive shematske kartice.
+
+
+## Treća serija — zadnji kuk i nervni simptomi (kartice 08–13)
+
+8. [Zadnja loža: sedalna kost i savijanje kolena protiv otpora](08-zadnja-loza-sedalna-kost-i-otpor.md) — razdvajamo lokalni bol od slabog kapaciteta.
+9. [Kontrolisano istezanje zadnje lože](09-kontrolisano-istezanje-zadnje-loze.md) — ne prepisujemo rezultate brze varijante na sporiju.
+10. [Sedeći test duboke glutealne regije](10-sedeci-test-duboke-glutealne-regije.md) — specijalistička provokacija zadnjeg bola.
+11. [Aktivni test dubokih rotatora](11-aktivni-test-dubokih-rotatora.md) — interpretirati zajedno sa prethodnim testom, ne kao dokaz piriformisa.
+12. [Podizanje ispružene noge — nervni simptomi](12-podizanje-ispruzene-noge-neuralni-bol.md) — uz najnoviju metaanalizu iz 2026.
+13. [Osnovni neurološki pregled noge](13-osnovni-neuroloski-pregled-noge.md) — osećaj, snaga, refleksi i hitno upućivanje.
+
+[Klinička orijentacija za zadnji bol kuka — za čitanje pre testova](../zadnji-bol-vodic.md).
+
+### Vizuelni sažeci serije 03
+
+![08 zadnja loza sedalna kost i otpor](slike/08-zadnja-loza-sedalna-kost-i-otpor.svg)
+
+![09 kontrolisano istezanje zadnje loze](slike/09-kontrolisano-istezanje-zadnje-loze.svg)
+
+![10 sedeci test duboke glutealne regije](slike/10-sedeci-test-duboke-glutealne-regije.svg)
+
+![11 aktivni test dubokih rotatora](slike/11-aktivni-test-dubokih-rotatora.svg)
+
+![12 podizanje ispruzene noge neuralni bol](slike/12-podizanje-ispruzene-noge-neuralni-bol.svg)
+
+![13 osnovni neuroloski pregled noge](slike/13-osnovni-neuroloski-pregled-noge.svg)
+
+**Status vizuala:** shematski prikazi su upisani u GitHub. Fotorealistični nacrti su zaseban radni materijal i nisu potvrđene anatomske demonstracije. Tekstualni protokoli imaju prednost dok stručna provera položaja nije završena.
