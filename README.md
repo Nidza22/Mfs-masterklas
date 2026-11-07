@@ -25,6 +25,13 @@ Masterklas anatomije, funkcije, povreda i testiranja zglobova.
 
 **Status:** originalni crteži su ilustrativni i nisu završno anatomski verifikovani; lista potrebnih korekcija je sačuvana. Sledeći deo za razradu: zasebne stranice o specifičnim stanjima i detaljne kartice testova, potom stručno proverene veze sa EX vežbama.
 
+## Povezivanje sa MFS Bibliotekom vežbi
+
+**Nova odluka:** klasifikujemo vežbe po regiji, mišićnoj grupi, porodici/varijanti, obrascu pokreta, mehanici i funkcionalnom cilju, **nezavisno od dijagnoze**. Kliničke veze se dodaju tek uz izvore, kriterijume i stručnu reviziju.
+
+- [Klinički most — kuk: simptomi, testovi, ciljevi i postojeće vežbe](kuk/klinika/povezivanje/README.md)
+- [Kategorizacija vežbi — zvanični početni standard](https://github.com/Nidza22/Mfs-baza-vezbi/blob/main/docs/kategorizacija-vezbi.md)
+
 ## Strucna literatura i rehab protokoli
 
 - [MFS biblioteka rehab protokola - Delaware, Nevada PT, Aspetar, VALD](literatura/rehabilitacioni-protokoli/README.md) - direktni PDF linkovi, izvori, oblasti, prava pristupa i alat za lokalno preuzimanje.
