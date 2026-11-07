@@ -1,3 +1,5 @@
+**GLAVNA VERZIJA ZA UČENJE:** [Testovi kuka opisani korak po korak, sa tumačenjem](../dijagnosticki-vodic/testovi-korak-po-korak.md). Ovde su sačuvane stare kratke beleške, koje ne treba koristiti kao samostalan protokol.
+
 # Kuk — mali katalog kliničkih testova i interpretacije (radna verzija)
 
 **Datum:** 2026-11-07  
