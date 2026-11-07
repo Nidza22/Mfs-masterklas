@@ -1,5 +1,7 @@
 # Kuk — kako Masterklas i Biblioteka vežbi rade zajedno
 
+> **NOVI PRIORITET (7. novembar 2026):** ovaj pilot povezivanja je sačuvan kao edukativna beleška, ali za sada **ne nastavljamo povezivanje dijagnoza i vežbi**. Pre toga gradimo pouzdan pretraživač sa jedinstvenom kategorizacijom svih postojećih i budućih vežbi. [Kanon plana](https://github.com/Nidza22/Mfs-baza-vezbi/blob/main/docs/PLAN-PRETRAZIVAC-KATEGORIZACIJA-2026-11-07.md).
+
 **Status:** planirani klinički most sa već napisanim edukativnim temama. Veze ka postojećim vežbama su **kandidati za stručnu proveru**, a ne gotovi rehabilitacioni protokoli.  
 **Datum:** 7. novembar 2026.
 
