@@ -12,8 +12,11 @@ Masterklas anatomije, funkcije, povreda i testiranja zglobova.
 
 1. [Anatomija kuka — edukativna lekcija](kuk/anatomija/README.md)
 2. [Galerija — četiri odobrene ilustracije](kuk/anatomija/slike/README.md)
+3. [Vizuelna stručna provera ilustracija — ograničenja i korekcije](kuk/anatomija/provera-ilustracija.md)
+4. [Mapa mišića kuka — polazišta, pripoji i uloge](kuk/anatomija/mapa-misica.md)
+5. [Funkcija i biomehanika kuka — lekcija 02](kuk/biomehanika/README.md)
 
-Sledeći deo za razradu: funkcija i pokreti kuka, zatim povrede i simptomi, pa testiranje.
+**Status:** originalni crteži su ilustrativni i nisu završno anatomski verifikovani; lista potrebnih korekcija je sačuvana. Sledeći deo za razradu: regije bola/povrede, diferencijalno razmatranje i testiranje, potom veze sa EX vežbama.
 
 ## Strucna literatura i rehab protokoli
 
