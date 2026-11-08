@@ -6,6 +6,12 @@ Masterklas anatomije, funkcije, povreda i testiranja zglobova.
 
 **[Dnevnik: šta je urađeno, gde stoje sve lekcije i kako nastavljamo](docs/DNEVNIK-2026-11-07.md).** Klinički sadržaj kuka ostaje sačuvan. **Sledeći razvojni prioritet je pretraživač i pouzdana kategorizacija vežbi u MFS Biblioteci**, ne sadašnje vezivanje dijagnoza sa vežbama. [Zaključani plan pretraživača](https://github.com/Nidza22/Mfs-baza-vezbi/blob/main/docs/PLAN-PRETRAZIVAC-KATEGORIZACIJA-2026-11-07.md).
 
+## Čitanje naučnih radova — novi MFS protokol
+
+Dogovoreno je zajedničko kritičko čitanje radova: korisnik prvo čita originalni PDF i izvlači svoje zaključke, a zatim upoređujemo nalaze, metodologiju, ograničenja i primenljivost u praksi. **Preliminarne teze ne postaju MFS stručni protokol bez provere punog teksta i zajedničke potvrde.** Počinjemo sa ACSM pregledom programiranja treninga snage (2026), a zatim prelazimo na Nasserov komunikacioni model tendinopatije (2026).
+
+[Protokol čitanja i početni radovi](docs/citanje-strucnih-radova.md).
+
 ## MFS — zajednička vizija
 
 **Masterklas nije zasebna enciklopedija:** razvijamo ga zajedno sa [MFS Bibliotekom vežbi](https://github.com/Nidza22/Mfs-baza-vezbi) kao jedan praktičan alat za anatomiju, funkciju, simptome, stručnu procenu, testiranje, rehabilitacione kriterijume i povezane varijacije vežbi. Sadržaj mora imati proverljive izvore i status provere; korisnik dolazi do relevantnog EX ID-a direktno iz stručne lekcije, a zatim se može vratiti na znanje iza izbora vežbe. Ne izmišljati rehab faze i ne koristiti alat kao automatsku dijagnozu.
