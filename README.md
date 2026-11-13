@@ -48,4 +48,6 @@ Dogovoreno je zajedničko kritičko čitanje radova: korisnik prvo čita origina
 
 ## Radni materijal — tetive
 
+- [Predlog strukture: sedam lekcija o tetivama i GTPS (13.11.2026)](docs/radni-materijali/predlog-strukture-tetive-gtps-2026-11-13.md) — **radni nacrt**, izvori, mapa postojećih testova i kriterijumi stručne revizije.
+
 - [Tetive: devet Instagram slajdova — kritička analiza i naučne reference (13.11.2026)](docs/radni-materijali/tetive-analiza-instagram-2026-11-13.md) — **radno, nije klinički protokol**, s korekcijama, temama za čitanje i vezom s modulom kuka.
