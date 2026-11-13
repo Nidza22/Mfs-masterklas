@@ -45,3 +45,7 @@ Dogovoreno je zajedničko kritičko čitanje radova: korisnik prvo čita origina
 ## Strucna literatura i rehab protokoli
 
 - [MFS biblioteka rehab protokola - Delaware, Nevada PT, Aspetar, VALD](literatura/rehabilitacioni-protokoli/README.md) - direktni PDF linkovi, izvori, oblasti, prava pristupa i alat za lokalno preuzimanje.
+
+## Radni materijal — tetive
+
+- [Tetive: devet Instagram slajdova — kritička analiza i naučne reference (13.11.2026)](docs/radni-materijali/tetive-analiza-instagram-2026-11-13.md) — **radno, nije klinički protokol**, s korekcijama, temama za čitanje i vezom s modulom kuka.
